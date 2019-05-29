@@ -1,5 +1,3 @@
-/* globals Promise */
-
 /* eslint-disable no-unused-vars */
 
 var assert = require('assert')
